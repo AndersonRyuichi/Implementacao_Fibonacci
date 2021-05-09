@@ -1,0 +1,11 @@
+No metodo Main, mostra como eu vou ler o
+elemento requerido pelo usuario, logo apos
+ele tem um for que recebe ja de inicio como
+primeiro elemento o numero 1, depois vai
+contando 1 a 1 ate esse numero for menor
+igual ao termo solicitado.
+
+No outro metodo, ele calcula o Fibonacci,
+se o termo for menor que 2, ele vai retornar
+o proprio numero.
+
